@@ -2,8 +2,6 @@
 
 This project is a simple, interactive Tic-Tac-Toe game built with React. 
 
----
-
 ## **Features**
 ✨ **Interactive Game Board**  
 Take turns clicking squares to place your symbol (`X` or `O`).
@@ -16,8 +14,6 @@ Keep track of the action! The log shows a history of every move you've made duri
 
 🔄 **Restart Option**  
 Want a rematch? You can do it by simply clicking on the `Rematch` button after the game ends.
-
----
 
 ## **How to Run the Project**
 
@@ -35,9 +31,5 @@ Want a rematch? You can do it by simply clicking on the `Rematch` button after t
    npm start dev
    ```
 4. Open the app in your browser.
-
----
-
-
 
 
